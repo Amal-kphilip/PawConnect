@@ -1,0 +1,24 @@
+# Environment & Credentials
+.env
+.env.local
+.env.*.local
+*.log
+
+# OS Generated Files
+.DS_Store
+Thumbs.db
+ehthumbs.db
+desktop.ini
+
+# IDE & Editor Settings
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+.project
+.settings/
+
+# Temporary / Staging Archives
+*.tmp
+*.bak
+*.swp

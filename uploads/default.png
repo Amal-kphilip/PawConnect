@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" width="100%" height="100%">
+  <rect width="400" height="300" fill="#FFF5EC"/>
+  <g fill="#F28C28" opacity="0.85" transform="translate(140, 70) scale(0.6)">
+    <!-- Central Pad -->
+    <path d="M100 130 C60 130 40 170 50 210 C60 250 140 250 150 210 C160 170 140 130 100 130 Z"/>
+    <!-- Toe 1 -->
+    <ellipse cx="40" cy="95" rx="20" ry="28" transform="rotate(-20 40 95)"/>
+    <!-- Toe 2 -->
+    <ellipse cx="80" cy="70" rx="20" ry="28" transform="rotate(-5 80 70)"/>
+    <!-- Toe 3 -->
+    <ellipse cx="120" cy="70" rx="20" ry="28" transform="rotate(5 120 70)"/>
+    <!-- Toe 4 -->
+    <ellipse cx="160" cy="95" rx="20" ry="28" transform="rotate(20 160 95)"/>
+  </g>
+  <text x="200" y="240" font-family="'Poppins', sans-serif" font-size="18" font-weight="600" fill="#718096" text-anchor="middle">PawConnect Pet</text>
+  <text x="200" y="265" font-family="'Poppins', sans-serif" font-size="13" fill="#A0AEC0" text-anchor="middle">Awaiting Picture</text>
+</svg>
